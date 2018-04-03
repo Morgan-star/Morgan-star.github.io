@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(46, 75, 122);
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    display: inline-block
+}
+
+div {
+    display: inline-block;
+    width: 150px;
+    margin: 106px;
+    height: 170px;
+}
+
+p {
+    
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+li{
+    color: aqua;
+}
+
+li:hover{
+    background-color: yellow;
+    color:green;
+}
